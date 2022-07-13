@@ -1,0 +1,102 @@
+*{
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+
+
+}
+img {
+	border-radius: 5px;
+	padding: 40px;
+
+
+}
+body{
+	background: url(bg2.jpg);
+	background-size: 2000px;
+}
+#box1{
+
+	width: 1100px;
+	height: 1000px;
+	border: 1px solid #cdcdcd;
+	background-size: 1500px;
+	margin: auto;
+	background: url(bg1.jpg);
+	background-size: 1500px;
+	border-radius: 10px;
+	
+	}
+#box2{
+	font-family: cambria;
+	width: 500px;
+	height: 80px;
+	
+	background: white;
+	border-radius: 10px;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	margin-top: 500px;
+	margin-bottom: 10px;
+	margin-left: 300px;
+	text-align: center ;
+
+
+}
+#box2 h1{
+	text-align: center;
+	color: black;
+	padding-top: 10px;
+	
+}
+
+
+#box3{
+	font-family: cambria;
+	width: 500px;
+	height: 50px;
+	border: 1px solid #cdcdcd;
+	background: white;
+	border-radius: 10px;
+	padding-top: 1px;
+	margin-top: 20px;
+	margin-left: 300px;
+
+}
+#box3 h2{
+	text-align: center;
+	color: black;
+	padding-top: 10px;
+}
+#box4{
+	font-family: cambria ;
+	width: 110px;
+	height: 30px;
+	border: 1px solid #cdcdcd;
+	background: white;
+	border-radius: 10px;
+	padding-top: 1px;
+	margin-top: 100px;
+	margin-left: 500px;
+}
+#box4 h3{
+	text-align: center;
+	color: black;
+	padding-bottom: 5px;
+
+
+}
+#box5{
+	margin-top: 100px;
+	width: 1000px;
+	height: 150px;
+	background: purple;
+
+}
+#box5 ul{
+	padding-top: 10px;
+	padding-left: 30px;
+}
+#box5 ul li{
+	padding-left: 10px;
+}

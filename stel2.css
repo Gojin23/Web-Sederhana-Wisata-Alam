@@ -1,0 +1,53 @@
+.jumbotron{
+	padding-top: 2rem;
+	background-color: #e2edff;
+
+}
+#projects{
+	background-color: #e2edff;
+	text-align: center;
+}
+.poto img{
+	padding-left: 5px;
+	width: 1450px;
+	}
+
+.card-header{
+	background-color: black;
+	font-family: cambria;
+	color: white;
+
+}
+.card-text{
+	background-color: whitesmoke;
+	color: black;
+	border-radius: 5px;
+	font-family: cambria;
+}
+
+.display-4 {
+	margin-left: 10px;
+	text-align: center;
+	font-family: cambria;
+	
+}
+.col-4-md-3 {
+	font-family: cambria;
+	border-radius: 5px;
+
+}
+.col{
+	margin-top: 10px;
+	font-family: cambria;
+
+}
+.col-4-md-3{
+	border: 1px solid;
+}
+.row{
+	margin-top: 20px;
+}
+.lead{
+	font-family: cambria;
+	text-align: center;
+}
